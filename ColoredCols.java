@@ -45,7 +45,7 @@ public class ColoredCols {
 	}
 
 	public static void main(String [] args) {
-		ColoredCols cc = new ColoredCols(25);
+		ColoredCols cc = new ColoredCols(25); //users can change it as they wish
 		cc.iter_cols();
 	}
 }
